@@ -1,4 +1,4 @@
-# Swisstronic Testnet Technical Task 3 Mint ERC721 NFT Token
+# Swisstronic Testnet Technical Task 4 Mint PERC20 Token
 
 ## Claim Faucet First https://faucet.testnet.swisstronik.com/
 
