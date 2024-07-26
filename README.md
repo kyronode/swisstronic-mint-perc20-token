@@ -8,11 +8,11 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-perc20-mint-token.git
+git clone https://github.com/lordvein/swisstronik-mint-perc20-token.git
 ```
 
 ```
-cd swisstronik-perc20-mint-token
+cd swisstronik-mint-perc20-token
 ```
 
 ### 2. Install Dependency
